@@ -5,6 +5,9 @@ Desenvolvedora em transição de carreira, com foco no ecossistema JavaScript. D
 
 ## 💻 Atualmente trabalhando em
 
+### **Paleta de Dados(https://github.com/emilly-ksalmeida/paleta_de_dados)**
+- Aplicação web local para a secretaria de uma escola consultar, editar, cadastrar e exportar dados de alunos a partir de planilhas (.xlsx, .csv, .ods) utilizando TypeScript, React, Vite, Tailwind CSS, SheetJS, Dexie.js.
+
 ###  **SerelepePay(https://github.com/emilly-ksalmeida/imperio_serelepe_bank)**
   - API REST utilizada em dinâmica escolar para gerenciamento de pagamentos utilizando Node.js, TypeScript, Express.js, PostgreSQL e Prisma ORM.
   
@@ -21,6 +24,7 @@ Desenvolvedora em transição de carreira, com foco no ecossistema JavaScript. D
 - React
 - PostgreSQL
 - Prisma ORM
+- Dexie.js
 - Docker
 - Git
 <br>
@@ -39,18 +43,3 @@ Desenvolvedora em transição de carreira, com foco no ecossistema JavaScript. D
 
 ## 📫 Contato
 LinkedIn: https://www.linkedin.com/in/emilly-ks-almeida/
-
-<!--
-**emilly-ksalmeida/emilly-ksalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
